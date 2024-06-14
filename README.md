@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Curso+de+Full+Stack;Dev+ +CharlyBio87)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=2500&pause=500&random=false&width=435&lines=Curso+de+Full+Stack+Desarrollo+Web;Dev+Charlybio87)](https://git.io/typing-svg)
 
 ## Esquema de HTML
 ![image](https://github.com/Charlybio87/CursoDFullStack/assets/142097962/a91a2c95-d937-4cc9-9719-7c7c2f3dae2b)
