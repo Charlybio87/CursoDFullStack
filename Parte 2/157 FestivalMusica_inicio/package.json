@@ -15,8 +15,10 @@
   "author": "Ribas Carlos A",
   "license": "ISC",
   "devDependencies": {
+    "dart-sass": "^1.25.0",
     "gulp": "^5.0.0",
     "gulp-sass": "^5.1.0",
+    "node-sass": "^9.0.0",
     "sass": "^1.77.6"
   }
 }

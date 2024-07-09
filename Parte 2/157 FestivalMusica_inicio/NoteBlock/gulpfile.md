@@ -35,3 +35,6 @@ const { series, src, dest, watch } = ...
 
 > se agrega la funcion watch. Esta funcion nos permite automatizarel proceso, cada vez que realicemos un cambio en el archivo que le facilitamos (o que escuche) en gulp, al guardarlo, se ejecuta las funciones como la compilacion de la misma entregandonos un archivo app.css con los cambios efectuados en app.scss. (NOS EVITA REALIZAR ESTE PASO CADA VEZ QUE MODIFIQUEMOS EL ARCHIVO) ❗Importante... para salir de modo watch o tarea (terminal--> ctrl + c) para ingresar de nuevo a esta tarea es ejecutar gulp watchArchivos
  
+
+
+🏁
