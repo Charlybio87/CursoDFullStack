@@ -393,3 +393,10 @@ h3 {
 .navegacion-principal a:hover {
   color: #FEF46D;
 }
+
+.video {
+  position: relative;
+}
+.video .overlay {
+  position: absolute;
+}
